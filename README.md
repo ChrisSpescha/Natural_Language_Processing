@@ -1,7 +1,28 @@
-NLP recommendation systems
+# Overview 
+
+This repository contains a collection of exercises and projects related to natural language processing. 
+Each exercise is designed to teach a specific NLP concept or technique and includes detailed instructions, as well as starter code and solutions.
+
+# Table of Contents
+* Excercises
+* Notes
+* Applications
 
 
+# Prerequisites
 
-From the above given movie dataset we built a content based Recommendation system or Personalized recommendation system.First we had to clean the datset as there were some missing values then we had to drop the columns which didn't seem necessary for out Analysis. After that we did some Exploratory Data Analysis on the movie dataset and found some trends and observations from the plots.
+To complete these exercises, you will need the following:
 
-Then we used the concept of TF-IDF vector to convert our texts into a matrix form and find the cosine similarity so that we can predict the similar movies present in the dataset. At last we were sucessfull in building a very small version of a personalized recommendation system.
+Basic knowledge of Python programming <br>
+Familiarity with NLP concepts and techniques
+
+# Getting Started
+
+Clone or download this repository to your local machine.
+Navigate to the directory of the exercise you want to work on.
+Follow the instructions within the notebook.
+
+# Resources
+Natural Language Processing with Python
+Introduction to NLP
+NLP Crash Course
